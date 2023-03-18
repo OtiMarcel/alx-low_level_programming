@@ -6,7 +6,7 @@
 /**
 * main - Entry
 *
-* Return - n is positve or zero or negative (Success)
+* Return:  n is positve or zero or negative (Success)
 */
 int main(void)
 {
