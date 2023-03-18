@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
-* Main - Entry and contains several blocks and function
+* main - Entry and contains several blocks and function
 *
 * Return: output 0, 0r greater than or less than (Success)
 */
@@ -21,7 +21,7 @@ int main(void)
 	}
 	else if (last_n == 0)
 	{
-	printf("Last digit of %d is %d 0\n", n, last_n);
+	printf("Last digit of %d is %d and is 0\n", n, last_n);
 	}
 	else if (last_n < 6 && last_n != 0)
 	{
