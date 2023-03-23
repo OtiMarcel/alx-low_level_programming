@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* add - prints sum of two integers a and b
-* @a: single input
-* @b: single input
+* add -  sum up two integers a and b
+* @a: first integer input
+* @b: second integer  input
 *
 *
 *return: sum of a and b
