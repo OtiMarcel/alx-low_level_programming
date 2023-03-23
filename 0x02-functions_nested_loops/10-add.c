@@ -3,6 +3,7 @@
 * add - prints sum of two integer
 * @a: single input
 * @b: single input
+*@add: sum of a and b
 *
 *return: add
 */
