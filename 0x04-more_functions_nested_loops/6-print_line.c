@@ -3,7 +3,7 @@
 * print_lin - prints a straight line
 * @n: single integer dtating num of lines
 *
-*Return: lines
+*Return: num of lines
 */
 void print_line(int n)
 {
