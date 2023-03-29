@@ -4,15 +4,13 @@
 /**
 *print_array - display the content of an array
 *@a: an input sting
-*@: number of elements of the array
+*@n: number of elements of the array
 *
 *Return: void
 */
 void print_array(int *a, int n)
 {
 	int i;
-
-	n = strlen(a);
 
 	for (i = 0; i < n; i++)
 {
