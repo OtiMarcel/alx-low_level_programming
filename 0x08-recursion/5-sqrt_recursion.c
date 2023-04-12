@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*_sqrt - solvce for the natural square root of a number
+*sqrt_f1 - solvce for the natural square root of a number
 *@x: same integer as n below
 *@y: nuber that iterates from 1 to n
 *
